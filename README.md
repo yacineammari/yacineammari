@@ -1,11 +1,26 @@
 ## Hi I'm Yacine <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-:mailbox: Reach me out!
+Hey my name is Ammari Yacine.
+i have a bachelor in Computer Science with a focus on Information Systems and master's in bioinformatics. I am a versatilist and quickly adapt. i have experience in Machine learning data science and software development. 
+I'm a creative problem solver motivated to learn, grow and excel in the real world.
 
-<p align="center">
-<a href="#"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2.svg?logo=Facebook&logoColor=white"></a>
-<a href="#"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=LinkedIn&logoColor=white"></a>
-<a href="#"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a>
+🤖 fun fact about me: I'm proud to say that I can succesfully center an element with css 😎.
+
+🌱 I'm currently learning React.
+
+👨 Pronouns: he/him.
+
+👨🏻‍💻 Most of my projects are available on Github.
+
+💬 If you have any questions, just ask me.
+
+<!-- 📝 Checkout my resume ... -->
+
+<p>
+:mailbox: Reach me out! 
+<a href="https://www.facebook.com/cinouammari/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2.svg?logo=Facebook&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ammari-yacine-858439156/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=LinkedIn&logoColor=white"></a>
+<a href="mailto:yacine.ammari@yahoo.fr"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white"></a>
 </p>
 
 <h1>👨‍💻 Tools i use:</h1>
@@ -32,11 +47,9 @@
 </p>
 
 <h1>📊 Github Stats:</h1>
-<p>
-
-![](https://github-readme-stats.vercel.app/api?username=yacineammari&show_icons=true&theme=react)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yacineammari&layout=compact&theme=react)
+<p align="center">
+<a href="#"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=yacineammari&show_icons=true&theme=react" alt="PFE-alzheimer-disease-classification"></a>
+<a href="#"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yacineammari&layout=compact&theme=react" alt="PFE-alzheimer-disease-classification"></a>
 </p>
 
 <h1>📕 Top Projects I've Worked on:</h1>
@@ -48,3 +61,5 @@
 <a href="https://github.com/yacineammari/color-hailpixel-clone"><img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=yacineammari&repo=color-hailpixel-clone&theme=react" alt="color-hailpixel-clone"></a>
 </p>
 
+
+<h1 align="center"> Thanks for dropping by, hope you find some of my work interesting.</h1>
